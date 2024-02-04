@@ -1,0 +1,7 @@
+mistral - 24
+phi - 9
+samantha-mistral - 34
+llama2 - 52
+mistral-openorca - 29
+orca2 - 39
+dolphin-phi - 10
