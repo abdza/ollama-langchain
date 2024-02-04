@@ -31,7 +31,6 @@
   <body class='text-center'>
     <form class='form-signin' enctype="multipart/form-data">
       <h1 class='h3 mb-3 font-weight-normal'>DocTalk</h1>
-      <label>Source:</label><input type='text' name='source' class='form-control'/><br/>
       <label>Query:</label><input type='text' name='querystr' class='form-control'/><br/>
       <button class='btn btn-primary btn-block' hx-swap='beforeend' hx-target='#answer' hx-post='/query'>Query</button>
       <div id='answer' class='text-left'>
